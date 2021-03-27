@@ -1,0 +1,27 @@
+site_name: Indigon Docs
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: amber
+  logo: icon.png
+  favicon: icon.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expansion
+    - toc.integrate
+plugins:
+    - search
+extra:
+  social:
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@indigonbending
+      name: Indigon on TikTok
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/indigonmc/
+      name: Indigon on Instagram
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/indigonmc
+      name: Indigon on Twitter
