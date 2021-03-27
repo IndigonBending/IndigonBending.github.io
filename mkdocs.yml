@@ -1,11 +1,12 @@
 site_name: Indigon Docs
+site_url: https://indigonbending.github.io/docs/
+site_author: Azztl
 theme:
   name: material
   palette:
     scheme: slate
     primary: deep purple
     accent: amber
-  logo: icon.png
   favicon: icon.png
   features:
     - navigation.tabs
