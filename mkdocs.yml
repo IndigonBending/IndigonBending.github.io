@@ -17,6 +17,9 @@ plugins:
     - search
 extra:
   social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/VYE5WWr
+      name: Indigon Discord
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@indigonbending
       name: Indigon on TikTok
