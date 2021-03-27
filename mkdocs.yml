@@ -1,5 +1,5 @@
 site_name: Indigon Docs
-site_url: https://indigonbending.github.io/docs/
+site_url: https://indigonbending.github.io/
 site_author: Aztl
 theme:
   name: material
